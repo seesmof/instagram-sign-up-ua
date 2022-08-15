@@ -146,4 +146,12 @@ footer a {
 }
 footer a:hover {
   color: var(--txt-act-hover);
+}
+footer .Ukraine {
+  font-weight: bold;
+  color: rgb(255, 200, 0);
+  font-size: 24px;
+}
+footer .Ukraine span {
+  color: #005bbc;
 }/*# sourceMappingURL=style.css.map */
