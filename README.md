@@ -35,7 +35,7 @@ Simple one-page HTML and CSS project of an Instagram Sing Up Page. Made in free 
 
 - [Live View](https://seesmof.github.io/instagram-sign-up-ua/)
 
-![Website Page](./img/msedge_ZqiNNCvF2j.png)
+![Website Page](./img/msedge_BncYq3yzEI.png)
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 
